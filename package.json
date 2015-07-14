@@ -24,8 +24,5 @@
   "dependencies": {
     "loader-utils": "~0.2.6"
   },
-  "homepage": "https://github.com/odysseyscience/react-router-proxy-loader",
-  "peerDependencies": {
-    "react-router": "^0.13.0"
-  }
+  "homepage": "https://github.com/odysseyscience/react-router-proxy-loader"
 }
